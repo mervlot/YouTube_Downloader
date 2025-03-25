@@ -52,9 +52,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Acknowledgments  
 
 - Inspired by the need for a simple, efficient YouTube downloading tool.  
-<<<<<<< HEAD
-- Thanks to the developers of `yt_dlp` and `tkinter` for their invaluable libraries.  
 
-=======
-- Thanks to the developers of `yt_dlp` and `tkinter` for their invaluable libraries.  
->>>>>>> 23c365c (Initial commit)
+- Thanks to the developers of `yt_dlp` and `custom tkinter` for their invaluable libraries.  
